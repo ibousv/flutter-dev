@@ -1,3 +1,11 @@
 {
-  "image": "ibousv/flutter-dev:latest"
+  "image": "https://hub.docker.com/r/ibousv/flutter-dev",
+  
+  "customizations": {
+    "vscode": {
+      "extensions": ["streetsidesoftware.code-spell-checker"]
+    }
+  },
+  "forwardPorts": [3000]
 }
+
