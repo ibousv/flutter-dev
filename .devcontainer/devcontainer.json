@@ -1,5 +1,5 @@
 {
-  "image": "https://hub.docker.com/r/ibousv/flutter-dev",
+  "image": "ibousv/flutter-dev",
   
   "customizations": {
     "vscode": {
